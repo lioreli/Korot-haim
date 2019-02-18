@@ -1,0 +1,73 @@
+body {
+  font-family: "Arimo", sans-serif;
+  background-color: rgb(254, 254, 254);
+  padding: 0px;
+  margin: 0px;
+}
+
+header {
+  background-color: rgb(255, 255, 255);
+  color: black;
+  padding: 10px;
+  padding-left: 40px;
+  box-shadow: 0 8px 6px -6px rgb(224, 224, 224);
+  text-align: center;
+}
+
+.bodycon {
+  display: flex;
+  width: 100%;
+}
+
+.up {
+  margin: 40px;
+}
+
+.leftcol {
+  flex: 2;
+}
+
+.rightcol {
+  flex: 1;
+  padding-left: 100px;
+  padding-top: 82px;
+}
+
+.experience {
+  margin-top: 50px;
+}
+
+.education {
+  margin-top: 50px;
+}
+
+.skills {
+  margin-top: 50px;
+}
+
+.interests {
+  margin-top: 51px;
+}
+
+#headof {
+  margin-top: -2px;
+}
+
+#minshar {
+  margin-top: 115px;
+}
+
+#tichon {
+  margin-top: 0px;
+}
+
+h1 {
+  color: rgb(255, 96, 34);
+}
+
+footer {
+  text-align: center;
+  color: rgb(253, 253, 253);
+  background-color: rgb(255, 96, 34);
+  padding: 10px;
+}
